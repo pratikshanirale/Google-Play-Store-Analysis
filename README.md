@@ -25,4 +25,4 @@ Power BI
 
 
 
-🔗LinkedIn Post Link: 
+🔗LinkedIn Post Link: https://www.linkedin.com/feed/update/urn:li:ugcPost:7338211588442677250/
