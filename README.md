@@ -3,7 +3,6 @@
 
 **🧩 Problem Statement** <br>.
 The Google Play Store hosts millions of applications across various categories, each differing in user engagement, ratings, reviews, and installation trends. However, identifying the factors that influence an app’s popularity and performance remains a challenge for developers and stakeholders.
-
 The goal is to derive actionable insights that can help developers optimize their apps, improve visibility, and enhance user satisfaction on the Play Store.
 
 
