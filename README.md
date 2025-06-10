@@ -2,10 +2,10 @@
 
 🎥 I am Excited to share my Power BI project. In this project, I analyzed the Google Play Store. The analysis is based on data from 2010 to 2018, providing a comprehensive view of trends, app reviews, and installation patterns.
 
-🔧 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱: 
+🔧 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱:<br>
 Power BI 
 
-🔍 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
+🔍 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:<br>
 ➡️Total applications installed are 𝟯𝟭𝗯𝗻.<br>
 ➡️Average Rating across all the applications is 𝟰.𝟭𝟴, while the Average Price of paid applications is 𝟭𝟱.<br>
 ➡️The highest Category of application installed is Game (𝟭𝟭.𝟱𝗯𝗻), followed by Family (𝟯.𝟲𝗯𝗻) and Tools (𝟮.𝟵𝗯𝗻).<br>
