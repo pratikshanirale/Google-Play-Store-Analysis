@@ -18,8 +18,9 @@ Power BI
 ➡️Clash of Clans has the highest Reviews (𝟰𝟱𝗠), followed by Subway Surfers (𝟮𝟴𝗠) and Clash Royale (𝟮𝟯𝗠).<br>
 ➡️ The number of installations is increasing with respect to the updated year. Actively maintained and regularly updated apps see higher user engagement.<br>
 
-📊 **Excel Dashboard:**
+📊 **Power BI Report:**
 
+<img width="726" alt="Google Play Store Analysis" src="https://github.com/user-attachments/assets/b2c1d5ee-6ea1-4ebc-9b1b-fe82180ffe12" />
 
 
 🔗LinkedIn Post Link: 
