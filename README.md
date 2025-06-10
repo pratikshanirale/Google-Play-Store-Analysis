@@ -1,6 +1,10 @@
 📱 𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗹𝗮𝘆 𝗦𝘁𝗼𝗿𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 📱
 
-🎥 I am Excited to share my Power BI project. In this project, I analyzed the Google Play Store. The analysis is based on data from 2010 to 2018, providing a comprehensive view of trends, app reviews, and installation patterns.
+**🧩 Problem Statement** <br>
+
+The Google Play Store offers millions of apps across diverse categories, but understanding what drives app popularity and performance remains a challenge.
+This analysis aims to uncover key factors influencing user engagement, ratings, and installs—providing actionable insights for developers to improve app visibility and user satisfaction.
+
 
 🔧 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱:<br>
 Power BI 
@@ -13,5 +17,9 @@ Power BI
 ➡️Top Rated Reviews lead in Free (𝟲𝟭𝟮𝟮) as well as Paid (𝟱𝟳𝟬) app, followed by Above Average and Average, while Bad Rated Reviews face high downgrades for both Free (𝟭𝟮𝟰) and paid (𝟭𝟮) Apps.<br>
 ➡️Clash of Clans has the highest Reviews (𝟰𝟱𝗠), followed by Subway Surfers (𝟮𝟴𝗠) and Clash Royale (𝟮𝟯𝗠).<br>
 ➡️ The number of installations is increasing with respect to the updated year. Actively maintained and regularly updated apps see higher user engagement.<br>
+
+📊 **Excel Dashboard:**
+
+
 
 🔗LinkedIn Post Link: 
