@@ -1,7 +1,7 @@
 📱 𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗹𝗮𝘆 𝗦𝘁𝗼𝗿𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 📱
 
-**🧩 Problem Statement** <br>
 
+**🧩 Problem Statement** <br>
 The Google Play Store offers millions of apps across diverse categories, but understanding what drives app popularity and performance remains a challenge.
 This analysis aims to uncover key factors influencing user engagement, ratings, and installs—providing actionable insights for developers to improve app visibility and user satisfaction.
 
