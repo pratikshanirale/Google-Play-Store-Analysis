@@ -21,7 +21,8 @@ Power BI
 
 📊 **Power BI Report:**
 
-<img width="726" alt="Google Play Store Analysis" src="https://github.com/user-attachments/assets/b2c1d5ee-6ea1-4ebc-9b1b-fe82180ffe12" /> <br>
+![Google Play Store Analysis](https://github.com/user-attachments/assets/70c36e51-776a-4c5c-81c1-2693006ab07a) <br>
+
 
 
 🔗LinkedIn Post Link: 
