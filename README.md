@@ -1,9 +1,10 @@
-📱 𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗹𝗮𝘆 𝗦𝘁𝗼𝗿𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 📱
+📱 𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗹𝗮𝘆 𝗦𝘁𝗼𝗿𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 📱<br>
 
 
-**🧩 Problem Statement** <br>
-The Google Play Store offers millions of apps across diverse categories, but understanding what drives app popularity and performance remains a challenge.
-This analysis aims to uncover key factors influencing user engagement, ratings, and installs—providing actionable insights for developers to improve app visibility and user satisfaction.
+**🧩 Problem Statement** <br>.
+The Google Play Store hosts millions of applications across various categories, each differing in user engagement, ratings, reviews, and installation trends. However, identifying the factors that influence an app’s popularity and performance remains a challenge for developers and stakeholders.
+
+The goal is to derive actionable insights that can help developers optimize their apps, improve visibility, and enhance user satisfaction on the Play Store.
 
 
 🔧 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱:<br>
@@ -20,7 +21,7 @@ Power BI
 
 📊 **Power BI Report:**
 
-<img width="726" alt="Google Play Store Analysis" src="https://github.com/user-attachments/assets/b2c1d5ee-6ea1-4ebc-9b1b-fe82180ffe12" />
+<img width="726" alt="Google Play Store Analysis" src="https://github.com/user-attachments/assets/b2c1d5ee-6ea1-4ebc-9b1b-fe82180ffe12" /> <br>
 
 
 🔗LinkedIn Post Link: 
