@@ -25,4 +25,5 @@ Power BI
 
 
 
-🔗LinkedIn Post Link: https://www.linkedin.com/feed/update/urn:li:ugcPost:7338211588442677250/
+🔗**LinkedIn Post Link:** https://www.linkedin.com/feed/update/urn:li:ugcPost:7338211588442677250/
+🌐 𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝: https://app.powerbi.com/view?r=eyJrIjoiZDEyYmU4ZWEtMGU1My00ZDhiLTlhMTYtOGViMDUxMzNiODM1IiwidCI6ImY5NWJjNmFhLTcxNDYtNGNhZS1iYTNkLTQxZGYxMTNlMWI1MSJ9
